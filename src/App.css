@@ -1,7 +1,6 @@
 .App {
   text-align: center;
   height: 100vh;
-  background-color: red;
   display: flex;
   flex-direction: column;
 }
@@ -30,7 +29,6 @@ p {
   flex-direction: column;
   justify-content: flex-end;
   padding-bottom: 2rem;
-  background-color: green;
 }
 
 .bottom-section {
